@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on anything cool
 - 🤔 I’m currently job searching
-- 🎓 I'm a Computer Science student (graduating in November 2024)
+- 🎓 I'm an IT student at Georgia Gwinnett College (graduating in November 2024)
 - 😄 Adjectives: Cool, funny..
 - ⚡ Fun fact: I like buying expensive jpegs
 
