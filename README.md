@@ -7,7 +7,7 @@
 </p>
 
 ## 📖 About Me
-- 💻 I'm a full stack web developer
+- 💻 I'm a full stack web engineer
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on anything cool
 - 🎓 I'm an IT student (graduating in November 2024)
