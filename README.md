@@ -15,5 +15,3 @@
 - 😄 Adjectives: Cool, funny..
 - ⚡ Fun fact: I like buying expensive jpegs
 
-
-## Skills
