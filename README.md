@@ -9,8 +9,9 @@
 ## 📖 About Me
 - 💻 I'm a full stack web engineer
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on anything cool
-- 🎓 I'm an IT student (graduating in November 2024)
-- 😄 Adjectives: Cool, funny..
+- 👯 I’m looking to collaborate on anything interesting
+- 🎓 I'm a part-time IT student (graduating November 2024)
+- 👔 Currently job searching 
+- 😄 Adjectives: Cool, smart, funny..
 - ⚡ Fun fact: I like buying expensive jpegs
 
