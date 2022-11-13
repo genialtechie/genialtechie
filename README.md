@@ -8,7 +8,7 @@
 
 ## 📖 About Me
 - 💻 I'm a full stack web engineer
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on anything interesting
 - 🎓 I'm a part-time IT student (graduating November 2024)
 - 👔 Currently job searching 
