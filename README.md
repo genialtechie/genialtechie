@@ -13,5 +13,5 @@
 - 🎓 I'm a part-time IT student (graduating November 2024)
 - 👔 Currently job searching 
 - 😄 Adjectives: Cool, smart, funny..
-- ⚡ Fun fact: I like buying expensive jpegs
+- ⚡ Fun fact: Lionel Messi is the greatest football player to ever exist
 
