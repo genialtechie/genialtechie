@@ -7,11 +7,11 @@
 </p>
 
 ## 📖 About Me
-- 💻 I'm a full stack web engineer
+- 💻 I'm a full stack engineer
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on anything interesting
 - 🎓 I'm a part-time IT student (graduating November 2024)
-- 👔 Currently freelancing 
+- 👔 Currently building [Magpollo](https://magpollo.com) 
 - 😄 Adjectives: Cool, smart, funny..
 - ⚡ Fun fact: Lionel Messi is the greatest football player to ever exist
 
