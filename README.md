@@ -1,4 +1,5 @@
 #### Hi there, call me **"HBO"** 
+<a href="https://gitroll.io/profile/uScQhsgdjFFgeekGUWpEG0VOC8YE3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uScQhsgdjFFgeekGUWpEG0VOC8YE3?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 <p align="left">
   <a href="[https://www.linkedin.com/in/haleembello](https://www.linkedin.com/in/haleembello)"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
